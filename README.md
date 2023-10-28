@@ -134,8 +134,8 @@ Selanjutnya kita gambarkan menggunakan visualisasi heatmap untuk melihat sebaran
 ```python
 plt.figure(figsize=(10,8))
 sns.heatmap(df.corr(),annot=True)
-![Alt text](image-5.png)
 ```
+![Alt text](image-5.png)
 
 
 Selanjutnya kita coba menampilkan Harga Kopi berdasarkan Tahun menggunakan script berikut :
