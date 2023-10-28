@@ -299,4 +299,5 @@ Hasil yang saya dapatkan dari R-squared sebesar 0.8375032561246034 atau sekitar 
 
 ## Deployment
 https://app-commodity-prices-x7r9kynm5bz2owmanevcwh.streamlit.app/
+
 ![Alt text](image-14.png)
