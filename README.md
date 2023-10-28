@@ -273,6 +273,7 @@ Setelah itu, saya menerapkannya dalam kode program dengan menggunakan metrik R-s
 
 ```python
 from sklearn.metrics import r2_score
+from sklearn.linear_model import LinearRegression
 
 # Data fitur (harga komoditas) dan tahun
 features = ['Cocoa', 'Coffee', 'Tea', 'Rice', 'Beef', 'Sugar', 'Coconut Oil','Gold']
