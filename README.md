@@ -20,8 +20,8 @@ Bagian laporan ini mencakup:
 - Tujuan proyek ini adalah membangun model peramalan tren masa depan dalam industri-industri terkait komoditas dengan menggunakan estimasi tahun berdasarkan perilaku harga komoditas.
 
 ### Solution statements
-1.	Solusi pertama adalah mengembangkan model peramalan tahun berdasarkan harga komoditas berbasis machine learning yang akan memanfaatkan data dari Kaggle.com mengenai historis harga komoditas dari tahun 1960 hingga 2021. Model ini akan digunakan untuk meramalkan tahun untuk harga komoditas di masa depan.
-2.	Model yang dihasilkan dari dataset akan menggunakan metode Regresi Linear untuk melakukan peramalan tahun berdasarkan harga komoditas.
+- Solusi pertama adalah mengembangkan model peramalan tahun berdasarkan harga komoditas berbasis machine learning yang akan memanfaatkan data dari Kaggle.com mengenai historis harga komoditas dari tahun 1960 hingga 2021. Model ini akan digunakan untuk meramalkan tahun untuk harga komoditas di masa depan.
+- Model yang dihasilkan dari dataset akan menggunakan metode Regresi Linear untuk melakukan peramalan tahun berdasarkan harga komoditas.
 
 ## Data Understanding
 Data yang saya gunakan dalam proyek ini di dapatkan dari Kaggle.com mengenai dataset harga historis 30 komoditas berbeda dari tahun 1960 hingga 2021 dan bisa diakses di link berikut [Commodity Prices].
