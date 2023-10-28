@@ -244,6 +244,7 @@ input_data = np.array(1.27, 1.97, 2.06, 107.35, 0.74, 0.07, 312.33, 35.27)
 prediction = lr.predict(input_data)
 print('Estimasi Tahun:', int(prediction[0]))
 ```
+![Alt text](image.png)
 
 Jika sudah berhasil semua jangan lupa untuk menyimpan model menggunakan pickle seperti berikut:
 
@@ -252,9 +253,6 @@ import pickle
 filename ='commodity_prices.sav'
 pickle.dump(lr, open(filename, 'wb'))
 ```
-
-![Alt text](image.png)
-
 Proses Modeling selesai.
 
 ## Evaluation
