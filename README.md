@@ -22,7 +22,7 @@ Tujuan proyek ini adalah membangun model peramalan tren masa depan dalam industr
 2.	Model yang dihasilkan dari dataset akan menggunakan metode Regresi Linear untuk melakukan peramalan tahun berdasarkan harga komoditas.
 
 ## Data Understanding
-Data yang saya gunakan dalam proyek ini di dapatkan dari Kaggle.com mengenai dataset harga historis 30 komoditas berbeda dari tahun 1960 hingga 2021 dan bisa diakses di link berikut [Commodity Prices]
+Data yang saya gunakan dalam proyek ini di dapatkan dari Kaggle.com mengenai dataset harga historis 30 komoditas berbeda dari tahun 1960 hingga 2021 dan bisa diakses di link berikut [Commodity Prices].
 
 https://www.kaggle.com/datasets/elmoallistair/commodity-prices-19602021
 
