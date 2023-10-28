@@ -7,7 +7,7 @@
 Proyek ini dilakukan untuk melakukan analisis harga historis 30 komoditas yang berbeda selama periode tahun 1960 hingga 2021. Fokus utamanya adalah mengidentifikasi hubungan antara tahun dan harga komoditas dalam konteks ekonomi global. Proyek ini mencakup estimasi tahun berdasarkan perilaku harga komoditas.
 
 ## Business Understanding
-Proyek analisis tahun berdasarkan harga komoditas seperti Cocoa, Kopi, Teh, Beras, Daging Sapi, Gula, Minyak Kelapa, dan Emas dari tahun 1960 hingga 2021 bertujuan untuk memberikan pemahaman mengenai bagaimana harga komoditas berubah selama periode waktu yang panjang dan bagaimana perubahan harga ini bisa mempengaruhi ekonomi global.
+Proyek analisis tahun berdasarkan harga komoditas seperti Cocoa, Kopi, Teh, Beras, Daging Sapi, Gula, Minyak Kelapa, dan Emas dari tahun 1960 hingga 2021 bertujuan untuk memberikan pemahaman mengenai bagaimana harga komoditas berubah selama periode waktu yang panjang dan bagaimana perubahan harga ini bisa mempengaruhi ekonomi global nantinya.
 
 Bagian laporan ini mencakup:
 
