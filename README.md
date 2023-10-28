@@ -92,8 +92,6 @@ Selanjutnya mengdeskripsikan 5 data paling atas dari dataset menggunakan perinta
 ```python
 df.head()
 ```
-![image](https://github.com/windaayumelati/Streamlit-Commodity-Prices/assets/148794156/2dae8c12-bf2e-4e05-85d9-1bb6ca92f999)
-
 ![Alt text](image-1.png)
 
 Karena didalam data terdapat beberapa kolom yang tidak akan digunakan, maka data tersebut akan didrop kolom tersebut menggunakan perintah :
@@ -106,6 +104,8 @@ Setelah mendrop kolom yang tidak akan digunakan kita tampilkan lagi 5 data atas 
 ```python
 df.head()
 ```
+![image](https://github.com/windaayumelati/Streamlit-Commodity-Prices/assets/148794156/2dae8c12-bf2e-4e05-85d9-1bb6ca92f999)
+
 Selanjutnya yaitu melihat tipe data dari masing-masing atribut/fitur dari dataset commodity_prices.csv menggunakan perintah property info :
 
 ```python
