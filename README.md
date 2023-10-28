@@ -300,4 +300,5 @@ Hasil yang saya dapatkan dari R-squared sebesar 0.8375032561246034 atau sekitar 
 ## Deployment
 https://app-commodity-prices-x7r9kynm5bz2owmanevcwh.streamlit.app/
 
-![Alt text](image-14.png)
+![image](https://github.com/windaayumelati/Streamlit-Commodity-Prices/assets/148794156/798b1302-0859-4fdb-a66c-277a3fc18ea2)
+
