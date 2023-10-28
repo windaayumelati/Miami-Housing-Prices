@@ -261,13 +261,13 @@ Disini saya menggunakan metrik evaluasi R-squared (R²) atau koefisien determina
 R-squared (R²) adalah metrik evaluasi dalam analisis regresi yang mengukur tingkat kesesuaian model regresi dengan data aktual. Rentang nilai R² adalah dari 0 (model tidak sesuai sama sekali) hingga 1 (model sesuai sempurna dengan data). R² mengukur seberapa baik model mampu menjelaskan variasi dalam variabel dependen (dalam hal ini, tahun sebagai variabel respons) berdasarkan variabel independen (dalam hal ini, perilaku harga komoditas sebagai variabel prediktor). Semakin tinggi nilai R², semakin baik model dalam menjelaskan variasi dalam data, menunjukkan penjelasan yang lebih baik oleh model.
 
 Rumus R-squared (R²) adalah sebagai berikut:
-
 \[ R^2 = 1 - \frac{SSR}{SST} \]
 
 Di mana:
-- \( R^2 \): Koefisien determinasi (R-squared).
-- \( SSR \): Jumlah kuadrat sisa (Sum of Squares Residual), yaitu jumlah kuadrat perbedaan antara nilai-nilai yang diprediksi oleh model dan nilai-nilai yang diamati dalam data.
-- \( SST \): Jumlah kuadrat total (Sum of Squares Total), yaitu jumlah kuadrat perbedaan antara nilai-nilai dalam data dan nilai rata-rata data.
+- \( R^2 \) : Koefisien determinasi (R-squared).
+- \( SSR \) : Jumlah kuadrat sisa (Sum of Squares Residual), yaitu jumlah kuadrat perbedaan antara nilai-nilai yang diprediksi oleh model dan nilai-nilai yang diamati dalam data.
+- \( SST \) : Jumlah kuadrat total (Sum of Squares Total), yaitu jumlah kuadrat perbedaan antara nilai-nilai dalam data dan nilai rata-rata data.
+
 
 Setelah itu, saya menerapkannya dalam kode program dengan menggunakan metrik R-squared (R²) seperti berikut :
 
