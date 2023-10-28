@@ -12,7 +12,7 @@ Proyek analisis tahun berdasarkan harga komoditas seperti Cocoa, Kopi, Teh, Bera
 Bagian laporan ini mencakup:
 
 ### Problem Statements
-Bagaimana estimasi tahun berdasarkan perilaku harga komoditas dapat membantu dalam meramalkan tren masa depan dalam industri-industri terkait komoditas?
+Bagaimana estimasi tahun berdasarkan perilaku harga komoditas dapat membantu dalam meramalkan tren masa depan dalam industri-industri terkait komoditas
 
 ### Goals
 Tujuan proyek ini adalah membangun model peramalan tren masa depan dalam industri-industri terkait komoditas dengan menggunakan estimasi tahun berdasarkan perilaku harga komoditas.
