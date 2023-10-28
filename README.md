@@ -12,10 +12,12 @@ Proyek analisis tahun berdasarkan harga komoditas seperti Cocoa, Kopi, Teh, Bera
 Bagian laporan ini mencakup:
 
 ### Problem Statements
-Bagaimana estimasi tahun berdasarkan perilaku harga komoditas dapat membantu dalam meramalkan tren masa depan dalam industri-industri terkait komoditas
+- Bagaimana hubungan antara tahun dan harga historis 30 komoditas yang berbeda selama periode tahun 1960 hingga 2021 dalam konteks ekonomi global.
+- Bagaimana kita dapat mengestimasi tahun berdasarkan perilaku harga komoditas ini?
 
 ### Goals
-Tujuan proyek ini adalah membangun model peramalan tren masa depan dalam industri-industri terkait komoditas dengan menggunakan estimasi tahun berdasarkan perilaku harga komoditas.
+- Menganalisis harga historis 30 komoditas berbeda selama periode tahun 1960 hingga 2021 untuk memahami pola dan tren perubahan harga.
+- Tujuan proyek ini adalah membangun model peramalan tren masa depan dalam industri-industri terkait komoditas dengan menggunakan estimasi tahun berdasarkan perilaku harga komoditas.
 
 ### Solution statements
 1.	Solusi pertama adalah mengembangkan model peramalan tahun berdasarkan harga komoditas berbasis machine learning yang akan memanfaatkan data dari Kaggle.com mengenai historis harga komoditas dari tahun 1960 hingga 2021. Model ini akan digunakan untuk meramalkan tahun untuk harga komoditas di masa depan.
