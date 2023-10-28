@@ -296,7 +296,7 @@ print("R-squared (R²):", r_squared)
 
 ![Alt text](image-13.png)
 
-Hasil yang saya dapatkan dari R-squared sebesar 0.8375032561246034 atau sekitar 84% menunjukan bahwa model regresi cocok dengan data aktual dalam konteks estimasi tahun berdasarkan perilaku harga komoditas. Hal ini menunjukkan bahwa semakin tinggi nilai R-squared, semakin baik model dalam menjelaskan hubungan antara tahun dan perilaku harga komoditas.
+Hasil yang saya dapatkan dari R-squared sebesar 0.8375032561246034 atau sekitar 84% menunjukan bahwa model regresi cocok dengan data aktual dalam estimasi tahun berdasarkan perilaku harga komoditas. Hal ini menunjukkan bahwa semakin tinggi nilai R-squared, semakin baik model dalam menjelaskan hubungan antara tahun dan perilaku harga komoditas.
 
 ## Deployment
 https://app-commodity-prices-x7r9kynm5bz2owmanevcwh.streamlit.app/
