@@ -269,7 +269,7 @@ Di mana:
 - SST : Jumlah kuadrat total (Sum of Squares Total), yaitu jumlah kuadrat perbedaan antara nilai-nilai dalam data dan nilai rata-rata data.
 
 
-Setelah itu, saya menerapkannya dalam kode program dengan menggunakan metrik R-squared (R²) seperti berikut :
+Saya menerapkannya dalam kode program dengan menggunakan metrik R-squared (R²) seperti berikut :
 
 ```python
 from sklearn.metrics import r2_score
