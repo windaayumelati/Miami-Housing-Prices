@@ -246,7 +246,7 @@ print('Estimasi Tahun:', int(prediction[0]))
 ```
 ![Alt text](image.png)
 
-Jika sudah berhasil semua jangan lupa untuk menyimpan model menggunakan pickle seperti berikut:
+Jika sudah berhasil melakukan semua tahapan jangan lupa untuk menyimpan model menggunakan pickle seperti berikut:
 
 ```python
 import pickle
