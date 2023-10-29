@@ -96,7 +96,7 @@ df.head()
 ```
 ![Alt text](image-1.png)
 
-Karena didalam data terdapat beberapa kolom yang tidak akan digunakan, maka data tersebut akan didrop kolom tersebut menggunakan perintah :
+Karena didalam data tersebut terdapat beberapa kolom yang tidak akan digunakan, maka data tersebut akan didrop menggunakan perintah :
 
 ```python
 df = df.drop(['Crude Oil', 'Coal', 'Natural Gas', 'Banana','Orange', 'Barley', 'Maize', 'Sorghum', 'Wheat', 'Chicken', 'Lamb', 'Shrimps','Platinum', 'Silver', 'Cotton', 'Rubber', 'Tobacco', 'Groundnut Oil', 'Palm Oil', 'Soybean', 'Logs', 'Sawnwood'], axis=1)
