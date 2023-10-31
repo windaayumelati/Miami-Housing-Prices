@@ -5,7 +5,7 @@
 
 ## Domain Proyek
 ## Domain Proyek
-Proyek ini dilakukan untuk melakukan analisis harga historis 30 komoditas yang berbeda selama periode tahun 1960 hingga 2021. Fokus utamanya adalah mengidentifikasi hubungan antara tahun dan harga komoditas dalam konteks ekonomi global. Proyek ini mencakup estimasi tahun berdasarkan perilaku harga komoditas.
+Proyek ini melibatkan analisis harga historis properti perumahan di wilayah Miami, Florida, selama periode waktu yang ditentukan. Fokus utamanya adalah mengidentifikasi faktor-faktor yang memengaruhi harga rumah di Miami dan membangun model estimasi harga rumah berdasarkan perilaku pasar properti di wilayah ini. Selama analisis ini, data properti Miami akan dieksplorasi untuk memahami hubungan antara berbagai fitur, seperti lokasi geografis, ukuran tanah, luas lantai, dan faktor-faktor lain, dengan harga jual properti perumahan.
 
 ## Business Understanding
 Proyek analisis harga pasar properti perumahan di wilayah Miami, Florida untuk memberikan pemahaman mendalam tentang dinamika pasar properti di Miami. Ini mencakup pemahaman mengenai bagaimana faktor-faktor seperti lokasi, perkembangan ekonomi, perubahan infrastruktur, dan faktor-faktor lainnya memengaruhi harga rumah. 
@@ -18,7 +18,7 @@ Bagian laporan ini mencakup:
 
 ### Goals
 - Menganalisis data harga pasar properti perumahan di wilayah Miami, Florida, selama periode waktu yang ditentukan untuk mengidentifikasi faktor-faktor yang memengaruhi harga rumah.
--Mengembangkan model estimasi harga rumah yang dapat memberikan perkiraan harga rumah yang akurat berdasarkan analisis data historis dan faktor-faktor yang mempengaruhi harga properti di Miami.
+- Mengembangkan model estimasi harga rumah yang dapat memberikan perkiraan harga rumah yang akurat berdasarkan analisis data historis dan faktor-faktor yang mempengaruhi harga properti di Miami.
 - Membantu pemangku kepentingan, termasuk pembeli, penjual, dan investor, dalam membuat keputusan yang lebih informasi dalam pembelian, penjualan, atau investasi properti di wilayah Miami.
 
 ### Solution statements
