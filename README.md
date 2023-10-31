@@ -18,13 +18,10 @@ Bagian laporan ini mencakup:
 
 ### Goals
 - Menganalisis data harga pasar properti perumahan di wilayah Miami, Florida, selama periode waktu yang ditentukan untuk mengidentifikasi faktor-faktor yang memengaruhi harga rumah/properti.
-- Mengembangkan model estimasi harga rumah yang dapat memberikan perkiraan harga rumah yang akurat berdasarkan analisis data historis dan faktor-faktor yang mempengaruhi harga properti di Miami.
+- Mengembangkan model estimasi harga rumah/properti yang dapat memberikan perkiraan harga rumah/properti yang akurat berdasarkan analisis data historis dan faktor-faktor yang mempengaruhi harga properti di Miami.
 - Membantu pemangku kepentingan, termasuk pembeli, penjual, dan investor, dalam membuat keputusan yang lebih informasi dalam pembelian, penjualan, atau investasi properti di wilayah Miami.
 
 ### Solution statements
-Tentu, berikut solusi dalam format yang lebih singkat dan mudah dimengerti:
-
-### Solusi
 1. Analisis data harga rumah di Miami untuk memahami faktor-faktor pengaruhnya, seperti lokasi, ukuran, dan kondisi properti.
 2. Membangun model peramalan harga rumah/properti berdasarkan data historis dan faktor-faktor yang telah diidentifikasi.
 3. Model yang dihasilkan dari dataset akan menggunakan metode Regresi Linear untuk melakukan peramalan tahun berdasarkan harga komoditas.
