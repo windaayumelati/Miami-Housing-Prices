@@ -34,8 +34,7 @@ Data yang saya gunakan dalam proyek ini di dapatkan dari Kaggle.com mengenai dat
 
 https://www.kaggle.com/datasets/deepcontractor/miami-housing-dataset
 
-Variabel-variabel pada Commodity Prices adalah sebagai berikut:
-Tentu, berikut adalah penjelasan untuk semua variabel berserta tipe datanya:
+Variabel-variabel pada Miami Housing Dataset adalah sebagai berikut:
 
 - **structure_quality (Tipe data: int64)**: Merupakan penilaian kualitas struktur atau bangunan properti. 
 
