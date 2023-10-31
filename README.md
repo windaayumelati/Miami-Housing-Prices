@@ -17,7 +17,7 @@ Bagian laporan ini mencakup:
 - Bagaimana kita dapat membangun model estimasi harga rumah yang dapat memberikan perkiraan harga yang akurat berdasarkan perilaku pasar properti di Miami.
 
 ### Goals
-- Menganalisis data harga pasar properti perumahan di wilayah Miami, Florida, selama periode waktu yang ditentukan untuk mengidentifikasi faktor-faktor yang memengaruhi harga rumah.
+- Menganalisis data harga pasar properti perumahan di wilayah Miami, Florida, selama periode waktu yang ditentukan untuk mengidentifikasi faktor-faktor yang memengaruhi harga rumah/properti.
 - Mengembangkan model estimasi harga rumah yang dapat memberikan perkiraan harga rumah yang akurat berdasarkan analisis data historis dan faktor-faktor yang mempengaruhi harga properti di Miami.
 - Membantu pemangku kepentingan, termasuk pembeli, penjual, dan investor, dalam membuat keputusan yang lebih informasi dalam pembelian, penjualan, atau investasi properti di wilayah Miami.
 
@@ -26,11 +26,11 @@ Tentu, berikut solusi dalam format yang lebih singkat dan mudah dimengerti:
 
 ### Solusi
 1. Analisis data harga rumah di Miami untuk memahami faktor-faktor pengaruhnya, seperti lokasi, ukuran, dan kondisi properti.
-2. Membangun model peramalan harga rumah berdasarkan data historis dan faktor-faktor yang telah diidentifikasi.
+2. Membangun model peramalan harga rumah/properti berdasarkan data historis dan faktor-faktor yang telah diidentifikasi.
 3. Model yang dihasilkan dari dataset akan menggunakan metode Regresi Linear untuk melakukan peramalan tahun berdasarkan harga komoditas.
 
 ## Data Understanding
-Data yang saya gunakan dalam proyek ini di dapatkan dari Kaggle.com mengenai dataset Memprediksi harga Miami Houses.Dan bisa diakses di link berikut :
+Data yang saya gunakan dalam proyek ini di dapatkan dari Kaggle.com mengenai dataset Memprediksi harga Miami Houses. Dan bisa diakses di link berikut :
 
 https://www.kaggle.com/datasets/deepcontractor/miami-housing-dataset
 
@@ -303,7 +303,7 @@ print("R-squared (R²) untuk prediksi harga rumah di Miami:", r_squared)
 ```
 ![Alt text](image-13.png)
 
-Hasil yang saya dapatkan dari R-squared sebesar 0.7138484272045863 atau sekitar 71% menunjukkan bahwa model regresi cocok dengan data aktual dalam memprediksi harga rumah di Miami berdasarkan fitur-fitur yang diberikan. Hal ini menunjukkan bahwa semakin tinggi nilai R-squared, semakin baik model dalam menjelaskan hubungan antara fitur-fitur dan harga rumah. Dengan R-squared sekitar 71%, model ini memiliki tingkat kecocokan yang baik dalam menjelaskan variasi harga rumah di Miami.
+Hasil yang saya dapatkan dari R-squared sebesar 0.7138484272045863 atau sekitar 71% menunjukkan bahwa model regresi cocok dengan data aktual dalam memprediksi harga rumah di Miami berdasarkan fitur-fitur yang diberikan. Hal ini menunjukkan bahwa semakin tinggi nilai R-squared, semakin baik model dalam menjelaskan hubungan antara fitur-fitur dan harga rumah/properti. Dengan R-squared sekitar 71%, model ini memiliki tingkat kecocokan yang baik dalam menjelaskan variasi harga rumah di Miami.
 
 ## Deployment
 https://miami-housing-prices.streamlit.app/
