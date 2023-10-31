@@ -307,5 +307,5 @@ print("R-squared (R²) untuk prediksi harga rumah di Miami:", r_squared)
 Hasil yang saya dapatkan dari R-squared sebesar 0.7138484272045863 atau sekitar 71% menunjukkan bahwa model regresi cocok dengan data aktual dalam memprediksi harga rumah di Miami berdasarkan fitur-fitur yang diberikan. Hal ini menunjukkan bahwa semakin tinggi nilai R-squared, semakin baik model dalam menjelaskan hubungan antara fitur-fitur dan harga rumah. Dengan R-squared sekitar 71%, model ini memiliki tingkat kecocokan yang baik dalam menjelaskan variasi harga rumah di Miami.
 
 ## Deployment
-
-
+https://miami-housing-prices.streamlit.app/
+![image](https://github.com/windaayumelati/Miami-Housing-Prices/assets/148794156/cbe14938-165a-45c4-913d-220f223c3004)
