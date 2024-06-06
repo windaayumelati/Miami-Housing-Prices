@@ -29,5 +29,6 @@ if st.button('Estimasi Harga House MIAMI'):
                  WATER_DIST, CNTR_DIST, SUBCNTR_DI, HWY_DIST, age, avno60plus, month_sold, structure_quality]]
     predict = model.predict(features)
     st.write('Estimasi Harga House MIAMI (USD): ', predict[0])
-    st.write('Estimasi Harga House MIAMI Dalam (IDR): ', predict*19000)
+    st.write('Estimasi Harga House MIAMI Dalam (IDR): ', predict[0]*19000)
+
     
